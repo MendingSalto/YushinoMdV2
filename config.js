@@ -19,6 +19,8 @@
 ⭝ 𝑵𝒂𝒓𝒖𝒕𝒐𝒎𝒐
 ⭝ 𝑹𝒊𝒔𝒎𝒂𝑩𝒐𝒕𝒛 𝑶𝒇𝒇𝒄
 ⭝ 𝑱𝒂𝒓𝒐𝒕 𝑶𝒇𝒇𝒄
+⭝ ®.KOKO•Rey✓
+,G
 ⭝ 𝑯𝒚𝒛𝒆𝒓
 ⭝ 𝑫𝒆𝒇𝒇𝒓𝒊
 ⭝ 𝑲𝒂𝒏𝒏𝒂𝑪𝒉𝒂𝒏
@@ -80,57 +82,57 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281348106274', 'DaniXd', true],
-['6281251549899', 'DaniOfc', true]
+['6285232604817', 'DaniXd', true],
+['6285232604817', 'DaniOfc', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6281352848936'
-global.nomorown = '6281251549899'
-global.nomorown1 = '6281251549899'
-global.nomorown2 = '6281348106274'
-global.nomorwa = '0'
+global.nomorbot = '+1(431)6316578'
+global.nomorown = '6285232604817'
+global.nomorown1 = '1(431)6316578'
+global.nomorown2 = '6285771052661'
+global.nomorwa = '085232604817'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'DaniXd'
-global.namebot = '​ DaniBotz'
+global.author = 'KoKoModsV2'
+global.namebot = '​ KevinBotz'
 global.wm = '© DaniBotz Bye DaniXd'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = 'DaniXd '
+global.wm = 'KevinBotz '
 global.watermark = wm
-global.wm2 = 'DaniXd '
+global.wm2 = 'KevinBotz '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉`
-global.stickpack = '𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉'
-global.stickauth = `© DaniBotz MD`
+global.titlebot = `KoKo.R 𝐗 Kevin`
+global.stickpack = 'KoKo.R 𝐗 Kevin'
+global.stickauth = `® KevinBotz MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'DaniXd'
-global.nameown2 = 'DaniOfc'
+global.nameown1= 'Kevin x KoKo.R'
+global.nameown2 = 'KevinMarcell'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/danibotz_official'
-global.sgh = 'https://github.com/DaniXd' //github
+global.sig = 'https://instagram.com/callme_rey1003'
+global.sgh = 'https://github.com/MendingSalto' //github
 global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdpuukmmP' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0812 5154 9899'
+global.pdana = '085232604817'
 global.povo = '-'
 global.pgopay = '0813 5284 8936'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0812 5154 9899'
-global.ppulsa2 = '081352848936'
+global.ppulsa = '085232604817'
+global.ppulsa2 = '085771052661'
 global.psaweria = 'https://saweria.co/hyuura'
 
 
@@ -343,9 +345,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/hyuura-official"
+global.urlnya = "https://www.instagram.com/callme_rey1003"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0813 6128 1833'
+global.phn = '085232604817'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
