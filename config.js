@@ -2,8 +2,8 @@
 /*
 ⫰⫯ Note!! Kalo Mau Hapus Ngotak Dulu,Siapa Yg Buat Siapa Yg Kerja Siapa Yang Nyediain Scriptnya
 
-𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐴𝑙𝑑𝑖 𝐿𝑒𝑠𝑚𝑎𝑛𝑎 
-𝐖𝐚 : 081361281833
+𝐀𝐮𝐭𝐡𝐨𝐫 : ✞®.KoKo•Rey✓✞ 
+𝐖𝐚 : 085232604817
 𝐛𝐚𝐬𝐞 : 𝑁𝑎𝑟𝑢𝑡𝑜𝑚𝑜
 𝐌𝐲 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 : 22 𝐴𝑔𝑢𝑠𝑡𝑢𝑠 2022
 
@@ -82,14 +82,14 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6285232604817', 'DaniXd', true],
-['6285232604817', 'DaniOfc', true]
+['6285232604817', 'KoKo•Rey', true],
+['6285232604817', 'KoKo•Rey', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '+1(431)6316578'
+global.nomorbot = '+6285232604817'
 global.nomorown = '6285232604817'
-global.nomorown1 = '1(431)6316578'
+global.nomorown1 = '6285771052661'
 global.nomorown2 = '6285771052661'
 global.nomorwa = '085232604817'
 
@@ -98,21 +98,21 @@ global.nomorwa = '085232604817'
 
 global.readMore = readMore
 global.author = 'KoKoModsV2'
-global.namebot = '​ KevinBotz'
-global.wm = '© DaniBotz Bye DaniXd'
+global.namebot = '​ KoKo•Rey'
+global.wm = '®. KoKo•Rey ModsV2'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = 'KevinBotz '
+global.wm = 'KoKoBotz '
 global.watermark = wm
-global.wm2 = 'KevinBotz '
+global.wm2 = 'KoKoBotz '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
 global.titlebot = `KoKo.R 𝐗 Kevin`
 global.stickpack = 'KoKo.R 𝐗 Kevin'
-global.stickauth = `® KevinBotz MD`
+global.stickauth = `® KoKoBotz MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Kevin x KoKo.R'
+global.nameown1= 'ItsMe x KoKo.R'
 global.nameown2 = 'KevinMarcell'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
@@ -120,7 +120,7 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/callme_rey1003'
+global.sig = 'https://instagram.com/callme_rey1910'
 global.sgh = 'https://github.com/MendingSalto' //github
 global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdpuukmmP' //group whatsapp
 global.sdc = '-' //discord
